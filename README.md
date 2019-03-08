@@ -1,1 +1,1 @@
-## Assignments for Deep Learning CS-535 Class 
+#### Assignments for Deep Learning CS-535 Class 
